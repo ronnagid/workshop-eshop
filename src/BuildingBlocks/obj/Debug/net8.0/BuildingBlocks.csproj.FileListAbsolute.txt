@@ -1,0 +1,13 @@
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
