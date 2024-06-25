@@ -1,6 +1,5 @@
-﻿using Marten.Schema;
-namespace Catalog.API;
-
+﻿namespace Catalog.API.Data;
+ 
 public class CatalogInitialData : IInitialData
 {
     public async Task Populate(IDocumentStore store, CancellationToken cancellation)
@@ -10,10 +9,10 @@ public class CatalogInitialData : IInitialData
         {
             return;
         }
-        session.Store<Product>(GetProducts());
+        session.Store<Product>(GetProduct());
         await session.SaveChangesAsync();
     }
-    private IEnumerable<Product> GetProducts() => new List<Product>
+    private static IEnumerable<Product> GetProduct() => new List<Product>
     {
         new Product()
                 {
@@ -78,6 +77,7 @@ public class CatalogInitialData : IInitialData
                     Price = 240.00M,
                     Category = new List<string> { "Camera" }
                 }
-
+ 
     };
+ 
 }

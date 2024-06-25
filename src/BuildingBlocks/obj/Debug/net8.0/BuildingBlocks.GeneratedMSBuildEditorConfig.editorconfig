@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BuildingBlocks
-build_property.ProjectDir = C:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\
+build_property.ProjectDir = c:\Users\6501600\OneDrive - Siamese Asset PLC\Documents\GitHub\workshop-eshop\src\BuildingBlocks\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
