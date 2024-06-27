@@ -24,6 +24,16 @@ builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 
 builder.Services.AddHealthChecks().AddNpgSql(builder.Configuration.GetConnectionString("Database")!);
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+        builder.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader();
+    });
+});
+
 
 builder.Services.AddMarten(config =>
 {
@@ -58,5 +68,7 @@ app.UseExceptionHandler(options => {
 app.UseHealthChecks("/health", new HealthCheckOptions {
     ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
 });
+
+app.UseCors();
 
 app.Run();

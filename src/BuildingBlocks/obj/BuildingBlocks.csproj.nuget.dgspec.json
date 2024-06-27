@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj": {}
+    "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj": {}
   },
   "projects": {
-    "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
+    "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectPath": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\6501600\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\obj\\",
+        "outputPath": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\6501600\\AppData\\Roaming\\NuGet\\NuGet.Config"

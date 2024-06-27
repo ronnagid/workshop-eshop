@@ -3919,11 +3919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-      "projectName": "Catalog.API",
-      "projectPath": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\Catalog.Api.csproj",
+      "projectName": "Catalog.Api",
+      "projectPath": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\Catalog.Api.csproj",
       "packagesPath": "C:\\Users\\6501600\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+      "outputPath": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\6501600\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3938,8 +3938,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
-              "projectPath": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj"
+            "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj": {
+              "projectPath": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\BuildingBlocks\\BuildingBlocks.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r5eWinrURY4=",
+  "dgSpecHash": "D4b6zKg4wKs=",
   "success": true,
-  "projectFilePath": "c:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+  "projectFilePath": "C:\\Users\\6501600\\OneDrive - Siamese Asset PLC\\Documents\\GitHub\\workshop-eshop\\src\\Services\\Catalog\\Catalog.API\\Catalog.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6501600\\.nuget\\packages\\aspnetcore.healthchecks.npgsql\\8.0.1\\aspnetcore.healthchecks.npgsql.8.0.1.nupkg.sha512",
     "C:\\Users\\6501600\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\8.0.1\\aspnetcore.healthchecks.ui.client.8.0.1.nupkg.sha512",
