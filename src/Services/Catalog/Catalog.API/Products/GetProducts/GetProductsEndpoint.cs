@@ -1,16 +1,17 @@
 ﻿
 namespace Catalog.API.Products.GetProducts;
-//public record GetProductsQuery() : IQuery<GetProductsResult>;
-public record GetProductsResponse(IEnumerable<Product> Products);
+// //public record GetProductsQuery() : IQuery<GetProductsResult>;
+public record GetProductsRequest(int? Page = 1, int? PageSize = 12) : IQuery<GetProductsResult>;
+public record GetProductsResponse(IEnumerable<Product> Products, int TotalData);
 public class GetProductsEndpoint : ICarterModule
 {
     public void AddRoutes(IEndpointRouteBuilder app)
     {
-        app.MapGet("/products", async (ISender sender) =>
+        app.MapGet("/products", async ([AsParameters]GetProductsRequest request,ISender sender) =>
         {
             // Add Entity to Database
             //throw new NotImplementedException();
-            var query = new GetProductsQuery();
+            var query = request.Adapt<GetProductsQuery> ();
 
             var result = await sender.Send(query);
 
